@@ -1,0 +1,15 @@
+{
+  "name": "@thelearninghouse/test-publish-plugin",
+  "version": "0.0.1",
+  "author": {
+    "name": "The Learning House",
+    "email": "droyer@learninghouse.com"
+  },
+  "repository": {
+    "url": "thelearninghouse/test-publish",
+    "type": "git"
+  },
+  "license": "MIT",
+  "main": "dist/MyComponent.js",
+  "files": ["dist"]
+}
